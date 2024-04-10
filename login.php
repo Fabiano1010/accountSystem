@@ -37,7 +37,7 @@ $data = $con->query($sql);
   else
   {
     
-    exit('Worng login or password');
+    exit('Wrong login or password');
     
   }
 
